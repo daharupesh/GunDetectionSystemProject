@@ -25,7 +25,7 @@ You also need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/gun-detection-system.git
+   https://github.com/daharupesh/GunDetectionSystemProject.git
    cd gun-detection-system
    ```
 
