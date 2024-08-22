@@ -58,3 +58,7 @@ To start the gun detection system:
 ## Contributing
 
 Contributions are welcome! Feel free to open issues, suggest features, or submit pull requests.
+
+## Screenshot
+
+![Image](./gundetection.png)
